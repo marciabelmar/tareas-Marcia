@@ -13,4 +13,4 @@ Este proyecto presenta un currículum vitae digital enfocado en la crisis hídri
 
 El currículum vitae digital ha sido publicado y puede ser accedido en el siguiente enlace:
 
-[Currículum Vitae - Crisis Hídrica en la Región de Ñuble](https://www.tusitio.com/cv-marcia-belmar)
+[Currículum Vitae - Crisis Hídrica en la Región de Ñuble](https://marciabelmar.github.io/Horizonte-h-drico-uble/)
